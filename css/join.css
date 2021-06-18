@@ -1,0 +1,28 @@
+.join {
+  width: 100%;
+  margin-top: 150px;
+  display: inline-block;
+}
+.join_inner {
+  margin-top: 150px;
+}
+.join_main {
+  width: 80%;
+  margin: 0 auto 150px;
+}
+.join_list li {
+  margin: 0 auto 150px;
+  display: flex;
+  border-bottom: 1px solid #ddd;
+  text-align: center;
+
+}
+.join_date {
+  width: 300px;
+  margin-right: 60px;
+  text-align: center;
+}
+.join_ttl {
+  width: 700px;
+  text-align: center;
+}
